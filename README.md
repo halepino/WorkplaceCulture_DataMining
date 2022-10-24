@@ -10,4 +10,8 @@ Project aims to create prediction model for work interference due to mental heal
 Narrative for project topic, tentative EDA, and visualizations are presented to support research rationale.
 
 ### Final MS2
-..in progress
+A cummulative document including all work in Final MS1. 
+Milestone 2 details rationale and coding for any cleaning, transformations, encoding, dropping, and handling of missing values. New data added to dataframe from the World Health Organization to clarify survey results around employer benefits and healthcare. 
+
+**Data Set:** https://www.who.int/data/gho/data/indicators/indicator-details/GHO/countries-that-have-passed-legislation-on-universal-health-coverage-(uhc)
+
