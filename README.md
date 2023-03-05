@@ -7,8 +7,8 @@ Repo contains dataset and associate files for personal project proposed for Data
 Project aims to inform company practices/offerings that reduce work-interference due to employee mental health through aid of machine learning and analysis of feature importance. A decision tree classifier was used to predict work interference and once a model was optimized, feature importance was analyzed to highlight workplace culture traits associated with increased or decreased work-interference.  
 
 ### Data Sets
-https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
-https://www.who.int/data/gho/data/indicators/indicator-details/GHO/countries-that-have-passed-legislation-on-universal-health-coverage-(uhc)
+1 https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey  
+2 https://www.who.int/data/gho/data/indicators/indicator-details/GHO/countries-that-have-passed-legislation-on-universal-health-coverage-(uhc)
 
 ### Variables
 ![image](https://user-images.githubusercontent.com/80646791/222942606-5922acc9-bed3-4661-a856-16aceef2fd9b.png)
