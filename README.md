@@ -15,21 +15,5 @@ Project aims to inform company practices/offerings that reduce work-interference
 ![image](https://user-images.githubusercontent.com/80646791/222942606-5922acc9-bed3-4661-a856-16aceef2fd9b.png)
 
 
-## Repo File Descriptions
-### Final MS1 
-* Narrative for project topic
-* tentative EDA & visualizations to support project rationale.
-
-### Final MS2
-* rationale and coding for any cleaning, transformations, encoding, dropping, and handling of missing values. 
-* New data added to dataframe from the World Health Organization to clarify survey results around employer benefits and healthcare. 
-
-### Final MS3
-* Feature reduction
-* Model selection & tuning
-* Interpreting feature importance (SHAP library vizualization tools)
-
-### Final Submission
-reviewed cumulative file of all three MS contents
 
 
