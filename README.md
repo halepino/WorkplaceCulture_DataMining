@@ -1,4 +1,4 @@
-# workplaceculture_DataMining  
+# WorkplaceCulture_DataMining  
 
 ### Repo Contents
 Repo contains dataset and associate files for personal project proposed for DataMining550 course compeltion in the MS Data Science Program @ Bellevue University  
