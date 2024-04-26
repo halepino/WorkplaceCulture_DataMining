@@ -4,7 +4,7 @@
 Repo contains dataset and associate files for personal project proposed for DataMining550 course compeltion in the MS Data Science Program @ Bellevue University  
 
 ### Objective: 
-Project aims to inform company practices/offerings that reduce work-interference due to employee mental health through aid of machine learning and analysis of feature importance. A decision tree classifier was used to predict work interference and once a model was optimized, feature importance was analyzed to highlight workplace culture traits associated with increased or decreased work-interference. The major challenge was to create a predicting model based only on features that reflected employee information that was ethically and realistically available to an employer. Features related to protected statuses (race,sex, orientation etc) were also dropped.
+Project aims to inform company practices/offerings that reduce work-interference due to employee mental health using machine learning classification modelings and model interpretation. A decision tree classifier was used to predict work interference and once a model was optimized, feature impact was analyzed using the SHAP library to highlight workplace culture traits associated with increased or decreased work-interference. The major challenge was to create a predicting model based only on features that reflected employee information that was ethically and realistically available to an employer. Features related to protected statuses (race,sex, orientation etc) were also dropped.
 
 ### Data Sets
 1 https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey  
